@@ -1,5 +1,3 @@
-[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawcode77)](https://github.com/rawcode77/github-readme-stats)
-
 ### Hi there 👋
 ### https://rawcode77.github.io/RawCode77/Portfolio-Website
 
@@ -12,3 +10,4 @@
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I speak Greek
 
+[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawcode77)](https://github.com/rawcode77/github-readme-stats)
